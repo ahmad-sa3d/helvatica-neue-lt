@@ -1,6 +1,6 @@
 {
   "name": "helvatica-neue-lt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helvatica Neue Lte Font",
   "main": "index.css",
   "scripts": {
@@ -14,7 +14,7 @@
   ],
   "author": "Ahmed Saad",
   "license": "ISC",
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/ahmad-sa3d/helvatica-neue-lt.git"
   },
