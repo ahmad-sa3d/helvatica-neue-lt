@@ -11,7 +11,7 @@ npm install helvatica-neue-lt --save
 require library in your JS code
 
 ``` javascript
-require('helvatica-neue-lt');
+require('helvatica-neue-lt/index.css');
 ```
 
 ``` css
