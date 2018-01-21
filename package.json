@@ -13,5 +13,10 @@
     "arabic-font"
   ],
   "author": "Ahmed Saad",
-  "license": "ISC"
+  "license": "ISC",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmad-sa3d/helvatica-neue-lt.git"
+  },
+  "homepage": "https://github.com/ahmad-sa3d/helvatica-neue-lt"
 }
