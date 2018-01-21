@@ -1,0 +1,17 @@
+{
+  "name": "helvatica-neue-lt",
+  "version": "1.0.0",
+  "description": "Helvatica Neue Lte Font",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "helvatica-neue",
+    "helvatica",
+    "font",
+    "arabic-font"
+  ],
+  "author": "Ahmed Saad",
+  "license": "ISC"
+}
